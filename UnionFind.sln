@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lessons", "Lessons", "{B37AEF8E-A109-4771-8631-128D94597705}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{96444CA2-325D-4581-AEEE-7F701CA71820}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionFindLesson", "UnionFindLesson\UnionFindLesson.csproj", "{5D3AE716-8930-474F-95F3-C33AE635EBA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnionFindTests", "UnionFindTests\UnionFindTests.csproj", "{424259F3-5EBC-45C6-9DCB-166FF34853B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3AE716-8930-474F-95F3-C33AE635EBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3AE716-8930-474F-95F3-C33AE635EBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3AE716-8930-474F-95F3-C33AE635EBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3AE716-8930-474F-95F3-C33AE635EBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424259F3-5EBC-45C6-9DCB-166FF34853B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424259F3-5EBC-45C6-9DCB-166FF34853B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424259F3-5EBC-45C6-9DCB-166FF34853B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424259F3-5EBC-45C6-9DCB-166FF34853B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5D3AE716-8930-474F-95F3-C33AE635EBA3} = {B37AEF8E-A109-4771-8631-128D94597705}
+		{424259F3-5EBC-45C6-9DCB-166FF34853B8} = {96444CA2-325D-4581-AEEE-7F701CA71820}
+	EndGlobalSection
+EndGlobal
